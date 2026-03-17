@@ -8,7 +8,7 @@ Actualmente, estoy estudiando para obtener la certificación de **Administrador 
 
 ### 🚀 Progreso en Trailhead
 * **Nivel Actual:** Hiker 🥾 (En camino al nivel Ranger)
-* **Perfil Oficial:** [🔗 Ver mis Medallas y Logros en Trailblazer.me]([https://www.salesforce.com/trailblazer/u7s5ltcbd592o39ekf]
+* **Perfil Oficial:** [🔗 Ver mis Medallas y Logros en Trailblazer.me]([https://www.salesforce.com/trailblazer/gabriel-tecnologia]
 ---
 
 ### 📚 Lo que he aprendido hasta ahora:
